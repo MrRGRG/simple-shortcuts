@@ -1,0 +1,8 @@
+{
+  "id": "simple-shortcuts",
+  "name": "Simple Shortcuts",
+  "author": "Rungeng.Lin",
+  "description": "Some text formatting shortcuts",
+  "isDesktopOnly": false,
+  "js": "main.js"
+}
